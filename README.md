@@ -1,4 +1,4 @@
-<h2 align="center">Hi! 👋 My name is Neil Ivan S. Orencia 🧛🏻‍♀️ and I'm a student of Bachelor of Science in Computer Science 💻, from LSPU - Sta Cruz 🏫</h2>
+<h2 align="center">Hi! 👋 I'm a student 🧛🏻‍♀️ of Bachelor of Science in Computer Science 💻, from LSPU - Sta Cruz 🏫</h2>
 
 ###
 
