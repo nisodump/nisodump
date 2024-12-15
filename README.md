@@ -1,6 +1,8 @@
-<h2 align="center">Hi! 👋 I'm a student 🧛🏻‍♀️ of Bachelor of Science in Computer Science 💻, from LSPU - Sta Cruz 🏫</h2>
+<h2 align="center">Hi! 👋 I'm a student of Bachelor of Science in Computer Science 💻, from LSPU - Sta Cruz 🏫</h2>
 
 ###
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnisodump&label=Profile%20Views&labelColor=%2341337a&countColor=%236652b7&style=flat&labelStyle=none)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nisodump&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
